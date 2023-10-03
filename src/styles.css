@@ -1,5 +1,5 @@
 /* styles.css */
 @font-face {
   font-family: 'CustomFont';
-  src: url('/path/to/your-custom-font.ttf') format('truetype');
+  src: url('src/PixelifySans-VariableFont_wght.ttf') format('truetype');
 }
