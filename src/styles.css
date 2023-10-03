@@ -1,7 +1,7 @@
 /* styles.css */
 @font-face {
   font-family: 'CustomFont';
-  src: url('https://primestorage0.blob.core.windows.net/fonts?sp=r&st=2023-10-03T01:30:09Z&se=2023-10-09T09:30:09Z&skoid=05526b9e-84a0-4906-847b-544bc988ecfd&sktid=27d49e9f-89e1-4aa0-99a3-d35b57b2ba03&skt=2023-10-03T01:30:09Z&ske=2023-10-09T09:30:09Z&sks=b&skv=2022-11-02&spr=https&sv=2022-11-02&sr=c&sig=41tP%2BmmAWzgIgtfaWbrrytetXV%2FrYwSntxnNn4kbPMI%3D') format('truetype');
+  src: url('https://primestorage0.blob.core.windows.net/?sv=2022-11-02&ss=bfqt&srt=c&sp=rtfx&se=2023-10-03T09:44:03Z&st=2023-10-03T01:44:03Z&spr=https&sig=FLY89ThEqGPJ79m7xDWoXVqwjunWB867e6CLqtVbPDc%3D') format('truetype');
 }
 
 .custom-font {
