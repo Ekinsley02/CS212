@@ -3,3 +3,8 @@
   font-family: 'CustomFont';
   src: url('src/PixelifySans-VariableFont_wght.ttf') format('truetype');
 }
+
+.custom-font {
+  font-family: 'CustomFont', sans-serif; /* Use your custom font */
+  font-size: 24px;
+}
