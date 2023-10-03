@@ -1,7 +1,7 @@
 /* styles.css */
 @font-face {
   font-family: 'CustomFont';
-  src: url('https://github.com/Ekinsley02/CS212/blob/6a3ac80717db84edeca82af931ecfc1f2c10e6e7/src/PixelifySans-VariableFont_wght.ttf') format('truetype');
+  src: url('https://primestorage0.blob.core.windows.net/fonts/PixelifySans-VariableFont_wght.ttf') format('truetype');
 }
 
 .custom-font {
