@@ -1,7 +1,7 @@
 /* styles.css */
 @font-face {
   font-family: 'CustomFont';
-  src: url('https://primestorage0.blob.core.windows.net/fonts/PixelifySans-VariableFont_wght.ttf?sv=2022-11-02&ss=bfqt&srt=c&sp=rtfx&se=2023-10-03T09:44:03Z&st=2023-10-03T01:44:03Z&spr=https&sig=FLY89ThEqGPJ79m7xDWoXVqwjunWB867e6CLqtVbPDc%3D') format('truetype');
+  src: url('https://github.com/Ekinsley02/CS212/blob/5771a0f69158c882214a32c0097a5e429e7996de/src/roboto-black-webfont.woff2') format('woff2');
 }
 
 
